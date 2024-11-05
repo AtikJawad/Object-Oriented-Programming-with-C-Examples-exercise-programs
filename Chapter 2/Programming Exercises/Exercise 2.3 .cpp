@@ -5,7 +5,7 @@ using namespace std;
 int main() {     
     int n;     
     string str="WELL DONE"; 
-     cout<<" Enter an integer value: "<<endl;  
+     cout<<" Enter an integer value: ";  
      cin>>n;     
      for(int i=0;i<n;i++)     
      {         cout<<str<<endl;    
